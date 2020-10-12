@@ -54,8 +54,8 @@ def check_time(h, m, txt):
 
 while True:
 	currentDT = datetime.datetime.now()
-																				# checks if it's any of the times
-	check_time(3, 14, 'pi)
+    # checks if it's any of the times
+	check_time(3, 14, 'pi')
 	check_time(4, 20, '4:20')
 	check_time(6, 28, 'tau')
 
